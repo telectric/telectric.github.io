@@ -1,0 +1,22 @@
+title: "Base de Conocimiento - Mantenimiento"
+description: "Wiki interna del Departamento de Mantenimiento"
+baseurl: ""
+url: "https://TU_USUARIO.github.io/mantenimiento-wiki"
+theme: minima
+markdown: kramdown
+
+collections:
+  fx:
+    output: true
+    permalink: /fx/:path/
+  pfc:
+    output: true
+    permalink: /pfc/:path/
+  ofsa:
+    output: true
+    permalink: /ofsa/:path/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
