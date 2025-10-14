@@ -8,5 +8,5 @@ title: "FX"
 Documentación técnica relacionada con equipos, fichas y procedimientos.
 
 ## Contenido
-    - [EQUIPOS](./equipos.md)
+- [EQUIPOS](./equipos.md)
 - [PROCEDIMIENTOS](./procedimientos.md)
