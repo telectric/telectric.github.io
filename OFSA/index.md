@@ -3,10 +3,13 @@ layout: default
 title: "OFSA"
 ---
 
-# 🛡️ Sección OFSA
+# 🛡️ OFSA
 
-Documentación sobre seguridad y mantenimiento preventivo.
+Documentación técnica.
 
-## Contenido
-- [SEGURIDAD](./seguridad.md)
-- [ANTENIMIENTO](./mantenimiento-preventivo.md)
+## Secciones
+- [PUESTOS DE VERIFICACIÓN](./puestos_verificacion.md)
+- [MONOPRODUCTO](./monoproducto.md)
+- [POSISORTER](./posisorter.md)
+- [PICKING](./picking.md)
+- [CLASIFICACIÓN](./clasificacion.md)
