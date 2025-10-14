@@ -8,5 +8,5 @@ title: "OFSA"
 Documentación sobre seguridad y mantenimiento preventivo.
 
 ## Contenido
-- [Seguridad](./seguridad.md)
-- [Mantenimiento Preventivo](./mantenimiento-preventivo.md)
+- [SEGURIDAD](./seguridad.md)
+- [ANTENIMIENTO](./mantenimiento-preventivo.md)
